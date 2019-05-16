@@ -4,4 +4,5 @@ defmodule StackoverflowCloneE.Controller.Question.Show do
   def show(_conn) do
     # Implement me
   end
+  dd
 end
